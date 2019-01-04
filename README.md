@@ -1,5 +1,6 @@
 # test_amb_noise_tools
 test the ambient nosie processing tools
+<<<<<<< HEAD
 AMBIENT NOISE PROCESSING TOOLS
 
 June 2018
@@ -53,3 +54,5 @@ Both scripts can be run with the example data given in the folder.
 
 
 
+=======
+>>>>>>> 55e7e48c5216fdd43990eb400eae3579db970abf
