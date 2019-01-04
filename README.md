@@ -55,4 +55,3 @@ Both scripts can be run with the example data given in the folder.
 
 
 =======
->>>>>>> 55e7e48c5216fdd43990eb400eae3579db970abf
