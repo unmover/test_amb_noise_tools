@@ -1,4 +1,7 @@
+# test_amb_noise_tools
+test the ambient nosie processing tools
 AMBIENT NOISE PROCESSING TOOLS
+
 June 2018
 This a set of Python functions that can be used to calculate ambient noise cross correlations and to extract phase velocities. Initial Fortran scripts developed by Kees Weemstra (Delft) and modified and extended by Emanuel Kaestle (UPMC Paris, FU Berlin).
 Please contact Emanuel Kaestle if you have any questions.
